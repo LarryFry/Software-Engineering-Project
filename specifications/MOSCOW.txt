@@ -1,0 +1,22 @@
+MOSCOW Breakdown - Project Goals
+
+Must;
+    - Main Menu - Functionality
+    - Way to select number of players (3-6) and decks (possibly based on players) - Functionality
+    - Way to see what other cards players have been played - Usability
+    - AI to play agaisnt - Functionality
+    - Some way to see if another player is on their hand or foot - Usability
+    - Online Poker Style Look - Usability
+Should;
+    - Arcade Style Score Board - Functionality
+    - Different AI difficulties - Functionality
+    - Implement a way to read the rules - Functionality
+    - Grouping way to organize played cards, as they are played - Usability
+Could;
+    - Good Card Models - Usability
+    - Sound - Usability
+    - Settings options (Resolution, sound, themes, option to see current scores) - Functionality/Usability
+    - Multiplayer - Functionality
+Wont;
+    - User profiles attached to score - Functionality
+    - Time limit - Functionality

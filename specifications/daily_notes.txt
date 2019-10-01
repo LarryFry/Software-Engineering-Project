@@ -1,0 +1,34 @@
+Daily Notes File
+
+wednesday 2/27/19
+session 1
+
+Comming up with rules and game constraints
+
+-rules
+1-draw 7 cards from pile
+2-set number of other players
+3-set number of decks used
+-player vs ai
+-ai difficulty levels
+-settinngs for how many players/AI and how many decks used
+-real time score that doesn't account for point reduction or no ingame displayed score
+-click to see other players books
+-ai knows current score based on difficulty levels
+-cool playing cards
+-design that could work for 4 or more people
+-possible time limit
+-let player know if another player is on thier hand or foot maybe a binary light to show what the player is currently on
+-possible theme choices
+-possible user database with profiles
+-arcade style score board
+-complained about walmart
+
+Moscow and FURPS
+
+M-GUI
+M-enemy AI
+M-menu (setup game)
+C-settings options
+C-could include multiplayers
+S-Arcade style score board
